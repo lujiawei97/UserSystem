@@ -17,8 +17,8 @@ fff | ggg| hhh | iii | 000|
  ---
   `createUser()`
  ---
-(```)
+```
 function(){
 //
 }
-(```)
+```
